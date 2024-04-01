@@ -1,2 +1,2 @@
 # Java-Excercise
-This is a java excercise repo.
+This is a java excercise repo for beginners.
